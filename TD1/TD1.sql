@@ -108,3 +108,5 @@ Private Sub Fin_Click()
     End If
 End Sub
 
+--Partie3
+
